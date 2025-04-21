@@ -1,1 +1,2 @@
-Diretorio criado para o projeto Challenger Amigo Secreto da turma ONE-G8
+# Turma8AmigoSecreto
+Repositório criado para o exercício da Turma 8 do treinamento ONE
