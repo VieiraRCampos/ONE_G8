@@ -1,4 +1,4 @@
-*Challenge TelecomX Parte2*
+**Challenge TelecomX Parte2**
 
 Telecom X – Parte 2: Prevendo Churn
 📣 História do Desafio
@@ -37,6 +37,7 @@ A empresa quer antecipar o problema da evasão, e cabe a você construir um pipe
 
 ✅ Comunicação técnica com foco estratégico
  
+
  Você agora é: Analista de Machine Learning Júnior
 
 A Telecom X está confiando na sua entrega para dar os próximos passos em direção a uma solução de inteligência preditiva eficaz. 
@@ -59,3 +60,9 @@ A Telecom X está confiando na sua entrega para dar os próximos passos em dire�
 4) Exemplos de gráficos e insights obtidos durante a análise exploratória de dados (EDA).
 
 5) Instruções para executar o notebook, incluindo quais bibliotecas precisam ser instaladas e como carregar os dados tratados.
+
+Abrir o Google Colab diretamente pelo link:  
+https://colab.research.google.com/github/VieiraRCampos/ONE_G8/blob/main/Challenge_TelecomXParte2/TelecomX_Parte2.ipynb 
+
+Na tela do Google Colab clicar no botão "Executar tudo" que fará a execução de todos os parágrafos do notebook. 
+
