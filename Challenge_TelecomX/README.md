@@ -19,6 +19,6 @@ Agora é sua vez! Use seus conhecimentos para transformar dados brutos em inform
 
 **Instruções para executar o notebook**
 
-Abrir o Google Colab diretamente pelo link:  https://github.com/VieiraRCampos/ONE_G8/blob/main/Challenge_TelecomX/TelecomX_BR.ipynb 
+Abrir o Google Colab diretamente pelo link:  https://colab.research.google.com/github/VieiraRCampos/ONE_G8/blob/main/Challenge_TelecomX/TelecomX_BR.ipynb 
 
 Na tela do Google Colab clicar no botão "Executar tudo" que fará a execução de todos os parágrafos do notebook. 
