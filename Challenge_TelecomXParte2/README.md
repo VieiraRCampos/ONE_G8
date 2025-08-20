@@ -11,6 +11,7 @@ Agora, você foi convidado a integrar oficialmente a equipe de Machine Learning 
 Sua nova missão é desenvolver modelos preditivos capazes de prever quais clientes têm maior chance de cancelar seus serviços.
 
 A empresa quer antecipar o problema da evasão, e cabe a você construir um pipeline robusto para essa etapa inicial de modelagem.
+
 🧠 Objetivos do Desafio
 
     Preparar os dados para a modelagem (tratamento, encoding, normalização).
@@ -25,6 +26,7 @@ A empresa quer antecipar o problema da evasão, e cabe a você construir um pipe
 
     Criar uma conclusão estratégica apontando os principais fatores que influenciam a evasão.
 
+
 🧰 O que você vai praticar
 
 ✅ Pré-processamento de dados para Machine Learning
@@ -34,9 +36,11 @@ A empresa quer antecipar o problema da evasão, e cabe a você construir um pipe
 ✅ Interpretação dos resultados e entrega de insights
 
 ✅ Comunicação técnica com foco estratégico
+ 
  Você agora é: Analista de Machine Learning Júnior
 
 A Telecom X está confiando na sua entrega para dar os próximos passos em direção a uma solução de inteligência preditiva eficaz. 
+
 
 1) O propósito da análise realizada, destacando o objetivo principal: prever o churn de clientes com base em variáveis relevantes.
 
