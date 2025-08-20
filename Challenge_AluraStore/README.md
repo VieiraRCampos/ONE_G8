@@ -25,7 +25,7 @@ A seguir estão alguns dos gráficos obtidos que poderão ser visualizados ao ex
 
 **Instruções para executar o notebook**
 
-Abrir o Google Colab diretamente pelo link:  https://github.com/VieiraRCampos/ONE_G8/blob/main/Challenge_AluraStore/AluraStoreBr.ipynb
+Abrir o Google Colab diretamente pelo link:  [https://github.com/VieiraRCampos/ONE_G8/blob/main/Challenge_AluraStore/AluraStoreBr.ipynb](https://colab.research.google.com/github/VieiraRCampos/ONE_G8/blob/main/Challenge_AluraStore/AluraStoreBr.ipynb)
 
 Na tela do Google Colab clicar no botão "Executar tudo" que fará a execução de todos os parágrafos do notebook. 
 
