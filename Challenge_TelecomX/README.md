@@ -1,4 +1,4 @@
-Telecom X - Análise de Evasão de Clientes
+**Telecom X - Análise de Evasão de Clientes**
 
 Você foi contratado como assistente de análise de dados na Telecom X e fará parte do projeto "Churn de Clientes". A empresa enfrenta um alto índice de cancelamentos e precisa entender os fatores que levam à perda de clientes.
 
@@ -15,3 +15,10 @@ O que você vai praticar:
 ✅ Realizar uma Análise Exploratória de Dados (EDA) e gerar um relatório com insights relevantes.
 
 Agora é sua vez! Use seus conhecimentos para transformar dados brutos em informações estratégicas e ajudar a Telecom X a reter mais clientes.
+
+
+**Instruções para executar o notebook**
+
+Abrir o Google Colab diretamente pelo link:  https://github.com/VieiraRCampos/ONE_G8/blob/main/Challenge_TelecomX/TelecomX_BR.ipynb 
+
+Na tela do Google Colab clicar no botão "Executar tudo" que fará a execução de todos os parágrafos do notebook. 
